@@ -41,8 +41,8 @@ logWithTime('This happened now');
 
 await sleep(1000);
 
-console.log(pickRandom(['🍎', '🍌', '🍇']));
-console.log(randomInt(1, 100));
+log(pickRandom(['🍎', '🍌', '🍇']));
+log(randomInt(1, 100));
 ```
 
 ## ➡️ Output
