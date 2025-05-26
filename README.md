@@ -30,6 +30,8 @@ npm install ok-log
 
 ```js
 import 'ok-log';
+//or
+const {} = require('ok-log')
 
 log('Hello!');
 logSuccess('Operation complete!');
