@@ -1,6 +1,6 @@
 {
   "name": "ok-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A cute and simple global logger for JavaScript with emojis and helper utilities.",
   "main": "ok-log.js",
   "type": "module",
