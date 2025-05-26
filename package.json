@@ -1,0 +1,24 @@
+{
+  "name": "ok-log",
+  "version": "1.0.0",
+  "description": "A cute and simple global logger for JavaScript with emojis and helper utilities.",
+  "main": "ok-log.js",
+  "type": "module",
+  "keywords": [
+    "logger",
+    "console",
+    "emoji",
+    "global",
+    "javascript",
+    "utility",
+    "debug",
+    "logging"
+  ],
+  "author": "winnaja",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/code-1543/ok-log"
+  },
+  "homepage": "https://github.com/code-1543/ok-log#readme"
+}
